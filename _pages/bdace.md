@@ -6,7 +6,7 @@ author_profile: true
 
 _Design and analysis of computer experiments_ is about using statistical approaches to problems such as  approximation, uncertainty quantification, optimization... involving computer programs that emulate physical systems (see, e.g., [Santner 2003](https://www.springer.com/fr/book/9780387954202)).
 
-My work relies on the Bayesian sequential decision theory.  In the domain of computer experiments, the Bayesian approach starts with a prior distribution that represents our prior belief about the structure of the computer model (see, e.g., the seminal article by [Sacks et al. 1989](https://projecteuclid.org/euclid.ss/1177012413)). Mostly often, prior distribution for modeling computer models are derived from Gaussian processes (GP). The use of GP models have become a well-established framework beyond the domain of computer experiments (see, e.g. [C.E. Rassmussen & C.K.I Williams 2006, Gaussian processes for ML](http://www.gaussianprocess.org/gpml/)).
+My work relies on the theory of Bayesian sequential decision.  In the domain of computer experiments, the Bayesian approach starts with a prior distribution that represents our prior belief about the structure of the computer model (see, e.g., the seminal article by [Sacks et al. 1989](https://projecteuclid.org/euclid.ss/1177012413)). Mostly often, prior distribution for modeling computer models are derived from Gaussian processes (GP). The use of GP models have become a well-established framework beyond the domain of computer experiments (see, e.g. [C.E. Rassmussen & C.K.I Williams 2006, Gaussian processes for ML](http://www.gaussianprocess.org/gpml/)).
 
 Stepwise Uncertainty Reduction (SUR)
 ------
