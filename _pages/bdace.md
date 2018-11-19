@@ -3,14 +3,10 @@ title: "Research"
 permalink: /bdace/
 author_profile: true
 ---
-Research
-======
 
-The field of design and analysis of computer experiments consists in using statistical approaches to problems such as  approximation, uncertainty quantification, optimization... involving computer programs (or simulators) that emulate physical systems (see, e.g., [Santner 2003](https://www.springer.com/fr/book/9780387954202)).
+Design and analysis of computer experiments consists in using statistical approaches to problems such as  approximation, uncertainty quantification, optimization... involving computer programs (or simulators) that emulate physical systems (see, e.g., [Santner 2003](https://www.springer.com/fr/book/9780387954202)).
 
 My work relies on the Bayesian sequential decision theory.  In the domain of computer experiments, the Bayesian approach starts with a prior distribution that represents our prior belief about the structure of the computer model. The use of this approach  for computer experiments appeared in the 1980s (see the seminal article by [Sacks et al. (1989)](https://projecteuclid.org/euclid.ss/1177012413)).
-
-My activities are reflected in my current implication in the stirring commitees of the [GdR MascotNum](http://www.gdr-mascotnum.fr) and the [PGMO program](https://www.fondation-hadamard.fr/PGMO) of the FMJH.
 
 Bayesian Optimization
 ------
