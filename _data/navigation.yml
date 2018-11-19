@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Bayesian DACE"
+    url: /bdace/    
+
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Collaborators & Students"
+    url: /colab/
+    
+  - title: "CV"
+    url: /cv/
