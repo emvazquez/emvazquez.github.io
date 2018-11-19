@@ -22,10 +22,11 @@ The consistency of several SUR strategies has been proved in [Bect et al 2018](h
 Bayesian Optimization
 ------
 
-How to optimize the performance of a system using numerical simulations? In particular, when simulations are time-consuming, it becomes essential to consider optimization algorithms that use the information provided by the simulations as efficiently as possible. Several approaches may be used. Most of them are based on the construction of an approximation of the output of the simulation (a metamodel). For instance, the idea of the Bayesian approach for optimization is to use a random process as a model of the function to be optimized. Then, the optimization is performed by making evaluations of the function in sequence, each evaluation being chosen in order to minimize a criterion that quantifies the expected loss, under the random process model, incurred by taking the best evaluation result collected so far instead of the true unknown optimum. Both theoretical and practical aspects are considered in my work:
- * [An informational approach to the global optimization of expensive-to-evaluate functions](https://link.springer.com/article/10.1007/s10898-008-9354-2)
- * [Convergence properties of the expected improvement algorithm with fixed mean and covariance functions](https://www.sciencedirect.com/science/article/pii/S0378375810001850)
- * [Robust Gaussian Process-Based Global Optimization Using a Fully Bayesian Expected Improvement Criterion](https://link.springer.com/chapter/10.1007%2F978-3-642-25566-3_13)
- * [A Bayesian approach to constrained single- and multi-objective optimization](https://link.springer.com/article/10.1007/s10898-016-0427-3)
+How to optimize the performance of a system using numerical simulations? In particular, when simulations are time-consuming, it becomes essential to consider optimization algorithms that use the information provided by the simulations as efficiently as possible. Several approaches may be used. Most of them are based on the construction of an approximation of the output of the simulation (a metamodel). For instance, the idea of the Bayesian approach for optimization is to use a random process as a model of the function to be optimized. Then, the optimization is performed by making evaluations of the function in sequence, each evaluation being chosen in order to minimize a criterion that quantifies the expected loss, under the random process model, incurred by taking the best evaluation result collected so far instead of the true unknown optimum. Both theoretical and practical aspects are considered in my work, e.g.:
+ * [An informational approach to the global optimization of expensive-to-evaluate functions](https://link.springer.com/article/10.1007/s10898-008-9354-2) in 2008
+ * [Convergence properties of the expected improvement algorithm with fixed mean and covariance functions](https://www.sciencedirect.com/science/article/pii/S0378375810001850) in 2010
+ * [Robust Gaussian Process-Based Global Optimization Using a Fully Bayesian Expected Improvement Criterion](https://link.springer.com/chapter/10.1007%2F978-3-642-25566-3_13) in 2011
+ * [A Bayesian approach to constrained single- and multi-objective optimization](https://link.springer.com/article/10.1007/s10898-016-0427-3) in 2017
+ * ...
 
 
