@@ -28,6 +28,10 @@ My work relies on the theory of Bayesian sequential decision.  In the domain of 
 
 My activities are reflected in my current implication in the stirring commitees of the [GdR MascotNum](http://www.gdr-mascotnum.fr) and the [PGMO program](https://www.fondation-hadamard.fr/PGMO) of the FMJH.
 
+Software
+======
+I am co-author of the [Matlab/GNU Octave STK](https://sourceforge.net/projects/kriging/) (the small toolbox for kriging), with my colleague Julien Bect being the main developper now. This toolbox is about Gaussian processes for computer experiments.
+
 More info
 ------
 Please refer to the Research tab above for more information about my research work.
