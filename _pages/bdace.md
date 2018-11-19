@@ -11,11 +11,7 @@ My work relies on the Bayesian sequential decision theory.  In the domain of com
 Stepwise Uncertainty Reduction (SUR)
 ------
 
-My work about SUR strategies began by 2006, when I undertook the supervision of Miguel
-Piera-Martinez during his PhD thesis. We focused our work on the problem of modeling the occurrence of extreme values in the output of a computer program---these extreme values may correspond to
-abnormal or dangerous operating conditions.  A simple Monte Carlo analysis of extreme values requires many simulations of the system, which are often very expensive. It is thus desirable to analyze extreme events with as few system simulations as possible.
-
-Our first idea was to use the statistical theory of extreme values to model the tail distribution of the output of a computer model. We could obtain satisfactory results by applying [Extreme Value Theory (EVT)](https://en.wikipedia.org/wiki/Extreme_value_theory) to various problems in the domain of electronic design and electromagnetic compatibility engineering. We were also interested in using EVT and machine learning techniques to estimate multivariate quantiles. Later on, I suggested using a sequential approach for the estimation of a probability of failure. This was the first instance of a SUR algorithm. This work was improved and published during the period 2009--2013. See for instance [Bect et al. 2011, Sequential design of computer experiments for the estimation of a probability of failure](https://link.springer.com/article/10.1007/s11222-011-9241-4).
+By 2006, I suggested using a sequential approach for the estimation of the volume of excursion of a function above a threshold. This problem find a direct application to the estimation of a probability of failure of a system. This work was the first instance of a SUR algorithm, which was improved and published during the period 2009--2013. See for instance [Bect et al. 2011, Sequential design of computer experiments for the estimation of a probability of failure](https://link.springer.com/article/10.1007/s11222-011-9241-4).
 
 The consistency of several SUR strategies has been proved in [Bect et al 2018](https://arxiv.org/abs/1608.01118).
 
