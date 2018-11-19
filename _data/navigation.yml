@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Research"
+    url: /bdace/   
+    
   - title: "Publications"
     url: /publications/
-
-  - title: "Research"
-    url: /bdace/    
 
 # - title: "Teaching"
 #   url: /teaching/
