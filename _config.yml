@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Emmanuel Vazquez"
   avatar           : "profile.png"
-  bio              : "Professor; researcher in Bayesian design and analysis of computer experiments ; coordinator of Data Science  projects at CentraleSupelec"
+  bio              : "Prof. & researcher in Bayesian design and analysis of computer experiments ; coordinator of Data Science  projects at CentraleSupelec"
   location         : "Gif-sur-Yvette, France"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=gyx2-dkAAAAJ"
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
