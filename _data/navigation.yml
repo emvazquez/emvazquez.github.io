@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Bayesian DACE"
+  - title: "Research"
     url: /bdace/    
 
   - title: "Teaching"
     url: /teaching/
     
-  - title: "Collaborators & Students"
+  - title: "Collab."
     url: /colab/
     
   - title: "CV"

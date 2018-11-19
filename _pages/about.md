@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Bayesian Design and Analysis of Computer Expermiments"
-excerpt: "About"
+title: "Emmanuel Vazquez"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This pages are about Bayesian Design and Analysis of [Computer Experiments](https://en.wikipedia.org/wiki/Computer_experiment).
+I am a researcher in the domain of Bayesian Design and Analysis of [Computer Experiments](https://en.wikipedia.org/wiki/Computer_experiment).
 
 About me
 ======
