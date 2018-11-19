@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-I am a researcher in the domain of Bayesian Design and Analysis of [Computer Experiments](https://en.wikipedia.org/wiki/Computer_experiment).
+I am a researcher in the domain of Bayesian Design and Analysis of [Computer Experiments](https://en.wikipedia.org/wiki/Computer_experiment) (Bayesian DACE).
 
 Teaching
 ======
