@@ -17,9 +17,7 @@ I am a researcher in the domain of Bayesian Design and Analysis of [Computer Exp
 Teaching
 ======
 
-I am a professor of Bayesian statistics at CentraleSupélec. I am also coordinator of data science projects. In the past I have also taught functional analysis and probability theory.
-
-You can learn more about data science projects in the teaching tab above.
+I teach Bayesian statistics at CentraleSupélec. I am also coordinator of data science projects. In the past I have also taught functional analysis and probability theory.
 
 Research
 ======
