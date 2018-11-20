@@ -13,7 +13,7 @@ Stepwise Uncertainty Reduction (SUR)
 
 By 2006, I suggested using a sequential approach for the estimation of the volume of excursion of a function above a threshold. This problem find a direct application to the estimation of a probability of failure of a system. This work was the first instance of a SUR algorithm, which was improved and published during the period 2009--2013. See for instance [Bect et al. 2011, Sequential design of computer experiments for the estimation of a probability of failure](https://link.springer.com/article/10.1007/s11222-011-9241-4).
 
-The consistency of several SUR strategies has been proved in [Bect et al 2018](https://arxiv.org/abs/1608.01118).
+The consistency of several SUR strategies has been proved by [Bect et al 2018](https://arxiv.org/abs/1608.01118).
 
 Bayesian Optimization
 ------
